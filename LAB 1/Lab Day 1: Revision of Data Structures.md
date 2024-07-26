@@ -13,5 +13,5 @@
 - Find out the most repeating element in the array  
 &nbsp; _Input:_ Enter how many numbers you want to read from file: 15  
 &nbsp; _Output:_ The content of the array: 10 40 35 47 68 22 40 10 98 10 50 35 68 40 10  
-Total number of duplicate values = 4  
-The most repeating element in the array = 10  
+&nbsp; Total number of duplicate values = 4  
+&nbsp; The most repeating element in the array = 10  
