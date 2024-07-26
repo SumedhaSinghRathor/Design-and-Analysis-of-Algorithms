@@ -15,3 +15,7 @@
 &nbsp; _Output:_ The content of the array: 10 40 35 47 68 22 40 10 98 10 50 35 68 40 10  
 &nbsp; &nbsp; Total number of duplicate values = 4  
 &nbsp; &nbsp; The most repeating element in the array = 10  
+
+**1.4 Aim of the program:** program:Write a function to ROTATE_RIGHT(p1, p2 ) right an array for first p2 elements by 1 position using EXCHANGE(p, q) function that swaps/exchanges the numbers p &amp; q. Parameter p1 be the starting address of the array and p2 be the number of elements to be rotated.
+&nbsp; _Input:_ 3 4 5 1 2  
+&nbsp; _Output:_ 3 7 12 13 15  
