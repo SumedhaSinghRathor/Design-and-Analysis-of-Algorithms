@@ -8,3 +8,10 @@
 &nbsp; _Input:_ 3 4 5 1 2  
 &nbsp; _Output:_ 3 7 12 13 15  
 
+**1.3 Aim of the program:** Write a program to read ‘n’ integers from a disc file that must contain some duplicate values and store them into an array. Perform the following operations on the array.  
+- Find out the total number of duplicate elements
+- Find out the most repeating element in the array  
+&nbsp; _Input:_ Enter how many numbers you want to read from file: 15  
+&nbsp; _Output:_ The content of the array: 10 40 35 47 68 22 40 10 98 10 50 35 68 40 10  
+Total number of duplicate values = 4  
+The most repeating element in the array = 10  
