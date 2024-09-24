@@ -1,5 +1,10 @@
 ## Lab Day 1: Revision of Data Structures
 
+<ol>
+  <li>Does this work?</li>
+  <li>If yes, than this is the second bullet point.</li>
+</ol>
+
 **1.1 Aim of the program:** Write a program to find out the second smallest and the second largest element stored in an array of n integers.  
 &nbsp; _Input:_ Size of an array is 'n' and read 'n' number of elements from a disc file.  
 &nbsp; _Output:_ Second smallest, second largest.  
